@@ -1,0 +1,34 @@
+textarea{
+    height: 15px;
+    width: 600px;
+}
+#text2{
+    height: 100px;
+    width: 600px;
+}
+span{
+   color: red;
+}
+#shi{
+    width: 60px;
+}
+#fen{
+    width: 60px;
+}
+#fuwufei{
+    width: 60px;
+}
+#xuanshang{
+    width: 60px;
+}
+h2{
+    text-align: center;
+}
+table{
+    margin-left:300px;
+    border-spacing:20px 15px;
+}
+#btn1{
+    margin-left: 600px;
+    margin-top: 30px;
+}

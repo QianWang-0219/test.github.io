@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    width: 100%;
+    height: 42px;
+    position: absolute;
+    background-color: #1a9f93;
+}
+.head p{
+    text-align: right;
+    margin-right: 30px;
+    color: white;
+}
+.head a{
+    float: right;
+    margin-right: 30px;
+    color: white;
+    font-size: small;
+}
+.header{
+    width:100%;
+    height: 35px;
+    background-color: #2f4056;
+    position: absolute;
+    top: 45px;
+}
+.header p{
+    color: white;
+    font-size: large;
+    padding-left: 30px;
+    padding-top: 4px;
+}
+.content{
+    width: 800px;
+    height: 480px;
+    background-color: #f6f6f6;
+    position: absolute;
+    top: 85px;
+    left: 250px;
+}
+.xinwen{
+    width: 59%;
+    height: 100%;
+    margin: 5px;
+    float: left;
+    border-right: 1px solid #e4e4e4;
+}
+.vlogs{
+    width: 38%;
+    height: 100%;
+    float: right;
+    margin: 5px;
+    text-align: center;
+}
+.vlog1{
+    width: 100%;
+    height: 30%;
+    background-color: #1a9f93;
+}
+.vlog2{
+    width: 100%;
+    height: 30%;
+    background-color: #f53c26;
+}
+.vlog3{
+    width: 100%;
+    height: 30%;
+    background-color: #ffabb7;
+}
+.kangyi{
+    width: 100%;
+    height: 33.3%;
+    border-bottom: 1px solid #e4e4e4;
+}
+.keji{
+    width: 100%;
+    height: 33.3%;
+    border-bottom: 1px solid #e4e4e4;
+}
+.yuti{
+    width: 100%;
+    height: 32.3%;
+    border-bottom: 1px solid #e4e4e4;
+}
+ul{
+    float: right;
+    width: 65%;
+    height: 100%;
+}
+li{
+    text-align: justify-all;
+    padding: 3.8px;
+}
+.suoyin {
+    float: left;
+    padding-top: 12px;
+}
